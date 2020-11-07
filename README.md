@@ -18,11 +18,9 @@ Courses-done
 [**6.** *Python and Statistics for Financial Analysis*](https://www.coursera.org/account/accomplishments/verify/27G54KBJ693U)
 
 
-**7.**  
-*Machine Learning with TensorFlow on Google Cloud Platform*
+**7.**  *Machine Learning with TensorFlow on Google Cloud Platform*
 		[**1>** *How Google does Machine Learning*](https://www.coursera.org/account/accomplishments/verify/JA3X5X6VC7Z9)
     
-   
 **8.**  Data Science: Foundations using R*
 		[**1>** *The Data Scientist’s Toolbox*](https://www.coursera.org/account/accomplishments/verify/VYDLQ9W8VVDX)
 		[**2>** *R Programming*](https://www.coursera.org/account/accomplishments/verify/EWZWT4P3MYVU)
